@@ -10,4 +10,5 @@
 
 ## C++
 + [가변 인자 템플릿](./cpp/variadic_templates.md)
++ [클래스 템플릿으로 간단한 벡터 구현](./cpp/class_template_vector.md)
 + [객체 지향, 디자인 패턴](./cpp/oop_and_design_pattern.md)
