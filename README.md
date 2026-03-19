@@ -14,5 +14,6 @@
 + [객체 지향, 디자인 패턴](./cpp/oop_and_design_pattern.md)
 
 <br><br>
-## 알고리즘 함수
+## 알고리즘 관련
 + [LCM, GCD, stoi, next_permutation, sstream](./algorithm/algorithm1.md)
++ [소수 판별 및 에라토스테네스의 체](./algorithm/algorithm2.md)
